@@ -1,6 +1,5 @@
 # classification-challenge
-This is my complete week 13 module challenge.
-While there are inconsistencies beteeen the BCS 
-portal instructions set and those in the starter 
-code (still), I can assert that this was a straightforward
- challenge.
+This is my complete week 13 module challenge for resubmission.
+I did get help from the course's instructor to address some of 
+the grader's feedback. It seems, and we both agreed, the grader 
+missed some of my answers.
